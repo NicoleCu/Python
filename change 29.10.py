@@ -12,6 +12,5 @@ for i in range(n):
         a[i] = a[i]//2
     else:
         a[i] = a[i] * 3
-for i in range(n):
-    print(a[i])
+print(a)
 
