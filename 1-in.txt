@@ -1,0 +1,7 @@
+5 2 4
+Ivanov Ivan Ivanovich passed passed 5 4 3 3
+Petrov Petr Petrovich passed don`t 4 5 5 4
+Nikolaev Nikolai Nikolaevich passed passed 2 5 2 4 
+Vladimirov Vladimir Vladimirovich passed don`t 2 3 2 2
+Kuprin Vadim Olegovich passed passed 5 5 5 5
+Titov Oleg Alekseevich passed passed 2 4 3 2
