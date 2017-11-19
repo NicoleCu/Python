@@ -10,11 +10,9 @@ z = []
 r = 0
 u = []
 q = []
-rt = []
 k = 0
 i = 0
 y = 0
-p = list
 ost = []
 f = open("1-in.txt", "r", encoding="latin_1")
 for line in f:
