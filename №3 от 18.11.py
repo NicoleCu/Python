@@ -1,7 +1,6 @@
 # вычислить количество сочетаний из n по k
 
-n = input("число n ")
-n = int(n)
+n = int(input("число n "))
 k = input("число k ")
 k = int(k)
 fac1 = 1
