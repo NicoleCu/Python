@@ -12,7 +12,7 @@ def euler(n):
 
 a = []
 k = 1
-f = open(input(), "r")
+f = open(input("Введите имя файла:"), "r")
 for line in f:
     b = line.split()
     for n in b:
