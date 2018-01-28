@@ -1,6 +1,8 @@
 # код Хаффмана
 
-from collections import Counter, namedtuple
+
+from collections import Counter
+from collections import namedtuple
 import heapq
 
 
@@ -16,7 +18,7 @@ def base():
         print(i, c[i])
 
 
-class Node(namedtuple("Node", ["left", "right"])):    # корень имя класса и его атрибуты
+class Node(namedtuple("Node", ["left", "right"])):  
         """"" Узел """""
         def run(self, c, p):
             self.left.run(c, p + "0")
