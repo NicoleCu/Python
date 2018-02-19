@@ -7,7 +7,7 @@ prime = []
 w = []
 z = []
 for i in range(3, 100):              # генерация некоторого списка простых чисел
-    for j in range(2, i, 2):            # Шаг = 2 для ускорения проверки простоты
+    for j in range(2, i):           
         if i % j == 0:
             break
     else:
